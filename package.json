@@ -1,5 +1,6 @@
 {
   "name": "youtubeapi-app",
+"homepage":"https://karesz3737.github.io/Youtube-api-with-react"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
